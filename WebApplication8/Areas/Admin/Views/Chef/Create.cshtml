@@ -1,0 +1,25 @@
+﻿@using WebApplication8.Areas.Admin.ViewModels
+
+
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ChefVM
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label asp-for="FullName">Name</label>
+            <input asp-for="FullName" class="form-control">
+            <span asp-validation-for="FullName"></span>
+
+            <label asp-for="Designation">Designation</label>
+            <input asp-for="Designation" class="form-control">
+            <span asp-validation-for="Designation"></span>
+
+            <label asp-for="formFile">File</label>
+            <input asp-for="formFile" class="form-control">
+            <span asp-validation-for="formFile"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

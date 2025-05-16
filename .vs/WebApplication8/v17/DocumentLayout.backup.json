@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|c:\\users\\i novbe\\source\\repos\\webapplication8\\webapplication8\\areas\\admin\\viewmodels\\chefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4608F349-121B-4A68-AFD9-AEB83D1E05B4}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\areas\\admin\\viewmodels\\chefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:10:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:08:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:08:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:07:56.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAAAB4CAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:05:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:04:30.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:57:10.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:56:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:55:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:55:33.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChefVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\ViewModels\\ChefVM.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\ViewModels\\ChefVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\ViewModels\\ChefVM.cs",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\ViewModels\\ChefVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:44:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication8\\WebApplication8\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeToolTip": "WebApplication8\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:32:42.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
