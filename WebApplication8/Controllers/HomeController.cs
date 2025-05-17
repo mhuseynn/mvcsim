@@ -7,6 +7,8 @@ using WebApplication8.Models.Concretes;
 
 namespace WebApplication8.Controllers;
 
+
+[Authorize(Roles ="Admin,Member")]
 public class HomeController : Controller
 {
     AppDbContext _context;

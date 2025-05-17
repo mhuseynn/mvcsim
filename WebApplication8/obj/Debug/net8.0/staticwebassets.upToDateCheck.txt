@@ -1,5 +1,7 @@
 wwwroot\css\bootstrap.min.css
 wwwroot\css\style.css
+wwwroot\images\656fbae3-8b71-423b-9398-a7ef473988b0Benedict_Cumberbatch_as_Doctor_Strange.jpeg
+wwwroot\images\af1c8009-4420-466f-89ee-fbabc04ea33eBenedict_Cumberbatch_as_Doctor_Strange.jpeg
 wwwroot\img\about-1.jpg
 wwwroot\img\about-2.jpg
 wwwroot\img\about-3.jpg

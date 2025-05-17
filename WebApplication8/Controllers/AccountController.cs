@@ -46,7 +46,7 @@ public class AccountController : Controller
         };
 
 
-        var result = await _userManager.CreateAsync(user);
+        var result = await _userManager.CreateAsync(user,registerVM.Password);
 
         if (result.Succeeded)
         {
@@ -76,6 +76,14 @@ public class AccountController : Controller
         if (user == null)
         {
 
+            return View(loginVM);
+        }
+
+
+        var check = await _userManager.CheckPasswordAsync(user, loginVM.Password);
+
+        if(!check)
+        {
             return View(loginVM);
         }
 
